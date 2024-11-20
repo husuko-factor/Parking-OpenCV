@@ -4,6 +4,8 @@
 import cv2
 import pickle
 
+
+
 # store clicked rectangles
 
 
